@@ -1,3 +1,11 @@
+# Twilio-API-SMS
+
+For use the API you need to run npm install twilio --save
+And create a account in the twilio site and get the access tokens
+
+#Live Version https://app.netlify.com/sites/startling-manatee-30f2f9/overview
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
